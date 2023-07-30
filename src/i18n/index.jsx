@@ -11,9 +11,11 @@ import ptMessages from './messages/pt.json';
 import ruMessages from './messages/ru.json';
 import ukMessages from './messages/uk.json';
 import zhcnMessages from './messages/zh_CN.json';
+import viMessages from './messages/vi.json'
 // no need to import en messages-- they are in the defaultMessage field
 
 const messages = {
+  vi: viMessages,
   ar: arMessages,
   'es-419': es419Messages,
   'fa-ir': faIRMessages,
