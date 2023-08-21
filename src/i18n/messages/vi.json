@@ -1,4 +1,9 @@
 {
+    "header.links.courses": "Khóa học",
+    "header.user.menu.dashboard": "Bảng thông tin",
+    "header.user.menu.profile": "Hồ sơ",
+    "header.user.menu.account.settings": "Tài khoản",
+    "header.user.menu.logout": "Đăng xuất",
     "gradebook.BulkManagementHistoryView.heading": "Lịch sử quản lý hàng loạt",
     "gradebook.BulkManagementHistoryView": "Dưới đây là nhật ký nhập khẩu lớp trước. Để tải xuống tệp CSV của sổ điểm của bạn và nhập điểm để ghi đè, hãy quay lại Sổ điểm. Xin lưu ý, sau khi nhập điểm, có thể mất vài giây để xử lý ghi đè.",
     "gradebook.BulkManagementHistoryView.successDialog": "Xử lý CSV. Quá trình tải tệp lên có thể mất vài phút để hoàn tất.",
